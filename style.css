@@ -1,0 +1,27 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.copy {
+    position: fixed;
+    color: yellowgreen;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    background-color: rgb(3, 28, 253);
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
